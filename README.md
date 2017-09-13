@@ -22,6 +22,10 @@ Send ethereum tokens to tendermint zones.
 5. Type the amount of ethers you want to deposit and press Deposit
 6. Type the destination address, the amount of ethers, password of your tendermint account, and press Withdraw
 
+## Demo
+
+[![Demo](https://img.youtube.com/vi/2vtTLzYZE-o/0.jpg)](https://www.youtube.com/watch?v=2vtTLzYZE-o)
+
 ## Features
 
 ### Deposit
